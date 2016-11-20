@@ -9,7 +9,7 @@
 
 using namespace std;
 
-
 //functions
+  void listDir(const String& path);
 
 #endif // FILEMANAGER
