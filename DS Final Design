@@ -1,0 +1,86 @@
+Data Structure Project Plans
+Final Project : Static Code Analyzer
+Lee, Seung Ki
+
+
+Design : Classes & Functions
+Main : Driver Class for
+Metric : Abstract Class for Functionality of inheriting Metrics Classes
+Reader : Class responsible for File I/O
+Analyzer: After the metric classes compute the data, combine the data for verbose or brief solution
+Inheriting Metric: Individual Classes each representing one static analysis metric
+Abstract superclass
+
+
+Metrics : Potential Candidates and Reasoning
+
+
+Duplicate Code Detection (DRY Principle)
+Parameters
+Char for char clone
+Token Clone
+Functionality Clone
+Algorithms / Library
+Baker’s Algorithm: Base of many clone detection algorithms
+Rabin-Karp Algorithm: Use hashing, often used for plagiarism checks
+Abstract Syntax Tree: Construct a tree, and compare the strings and substrings
+Visual Clone Detection: 2D comparison using DUPLOC
+Count Matrix Clone Detection(2011): Averaging the slower high level approaches and local low level approaches of clone detection, this algorithm tokenize the sequence and put them in a vector to count, then constructs a matrix from the vectors
+Comments
+Most likely using combination of Rabin-Karp and CMCD
+
+
+Effective Comment Analysis
+Parameters
+Succinctness
+Relevancy Index
+Necessity (joint implementation with Variable Naming)
+Possible Link with Formatting (Indentation, and lines of code)
+Algorithms / Library
+Ad vs Word Ratio
+Intuitive comments (insufficient Var Name & comments)
+verb analysis for functionality relevancy
+overlap with variable or function name
+Comments
+Integration with Formatting -> 
+
+
+Property Checking
+Parameters
+Partial Order Reduction : relevancy of order of processes
+mutual exclusion -> simplified Abstraction Attempts that results in not satisfying the conditions for execution
+Possible use of Counterexample guided abstraction refinement -> CEGAR using iteration of imprecise abstraction to find violation 
+Algorithm / Library
+
+
+Cyclomatic Complexity
+Parameters
+Check Number of execution routes
+Number of Required Tests -> with 
+Algorithm / Library
+Cyvis -> Java Tool, require C++ ver
+Count of testNum -> possibility for breakdown of funcitons
+
+
+Variable and Function Naming
+Parameters
+Informative -> check for verbage, 
+Intuitive -> 
+repetition -> increase score
+Algorithm / Library
+
+
+Class Coupling
+Parameters
+Class Coupling relative to the total class size
+possible 
+Algorithm / Library
+
+
+Potential Runtime Error Detection (MAYBE?)
+Parameters
+Detectable Logical Errors
+Buffer Overrun
+Part of Abstraction Interpretation -> 
+Algorithms / Library
+Polyspace-like tool
