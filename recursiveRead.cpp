@@ -2,7 +2,7 @@
 #include <cstring>
 #include <iostream>
 #include "Vector.h"
-#include "DSString"
+#include "DSString.h"
 
 using namespace std;
 
