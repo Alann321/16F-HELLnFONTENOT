@@ -1,11 +1,11 @@
 #include<iostream>
 
-class Format()
+class Format() : public Metric
 {
   private:
   
-    
-  
   public: 
+  
+  int incrementScore();
   
 };
