@@ -7,5 +7,9 @@
 int main (int argc, char* const argv[])
 {
   //call functions from fileManager
+    //cmdline read in
+  String path = String(args[1]);
+  listDir(path);
+  
   return 0;
 }
