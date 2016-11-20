@@ -1,31 +1,35 @@
-#include <unistd.h>
 #include <dirent.h>
 #include <cstring>
 #include <iostream>
 #include "Vector.h"
+#include "DSString"
 
 using namespace std;
 
-void listDir(const string& path)
+void listDir(const String& path)
 {
   DIR *dir;
   struct dirent *ent;
 
-  if((dir = opendir (path.c_str())) != NULL)
+  if((dir = opendir (path.c_str())) != nullptr)
   {
-    while ((ent = readdir (dir)) != NULL)
+    while ((ent = readdir (dir)) != nullptr)
     {
-      if(string(ent->d_name).compare(".") != 0)
+      if(String(ent->d_name).compare(".") != 0)
       {
         cout<< ent->d_name << endl;
       }
       else
       {
-        string nextDir = string(ent -> d_name);
+        String nextDir = String(ent -> d_name);
         nextDir += "\\";
-// files vector vs folder vector
-//pass in two vec by Ref -> call function on folder
-// instead of
+
+// files vector & folder vector
+// pass in two vec by Ref -> call function on folder to further find files
+// For each file with certain type (.cpp, .h, .hpp, .c, .cc, .cxx) read in the file
+// *NEED* Read the whole file so I can assess comments and format
+        
+        //current visit function
         cout <<  nextDir << endl;
 
         listDir(nextDir);
@@ -38,7 +42,8 @@ void listDir(const string& path)
 
 int main(int param, char **args)
 {
-  string path = string(args[1]);
+  //cmdline read in
+  String path = String(args[1]);
   listDir(path);
 
   return 0;
