@@ -1,8 +1,14 @@
 #ifndef FILEMANAGER
 #define FILEMANAGER
-#include<iostream>
-#include<fstream>
-#include"DSString.h"
+
+#include <dirent.h>
+#include <cstring>
+#include <iostream>
+#include "Vector.h"
+#include "DSString.h"
+
+using namespace std;
+
 
 //functions
 
