@@ -30,10 +30,10 @@ public:
     int totalLines;
     int totalComments;
 
-    //constructor with file iterator
+    //constructor with file iterator -> NEED IMPLEMENTATION IN DIRITR
     cmtRatio(directoryIterator files);
 
-    //score creation implementation
+    //score creation implementation -> NEED IMPLEMENTATION IN DIRITR
     void createScore(directoryIterator files);
 
 };
@@ -55,10 +55,10 @@ public:
     // int nounCount;
     // int verbCount;
 
-    //constructor with iterator
+    //constructor with iterator -> NEED IMPLEMENTATION IN DIRITR
     commentQuality(directoryIterator files);
 
-    //score creation implementation
+    //score creation implementation -> NEED IMPLEMENTATION IN DIRITR
     void createScore(directoryIterator files);
 
 };
