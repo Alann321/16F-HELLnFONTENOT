@@ -1,0 +1,709 @@
+DIR OPENED
+
+Directory Name: doc
+Directory Path: /home/smucoder/github50+cpp/doc
+DIR OPENED
+
+Directory Name: css
+Directory Path: /home/smucoder/github50+cpp/doc/css
+DIR OPENED
+
+Directory Name: scripts
+Directory Path: /home/smucoder/github50+cpp/doc/scripts
+DIR OPENED
+
+Directory Name: examples
+Directory Path: /home/smucoder/github50+cpp/doc/examples
+DIR OPENED
+
+File Name: basic_json__CompatibleStringType.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/basic_json__CompatibleStringType.cpp
+FILE OPENED
+
+File Name: find__key_type.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/find__key_type.cpp
+FILE OPENED
+
+File Name: operator__notequal__nullptr_t.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/operator__notequal__nullptr_t.cpp
+FILE OPENED
+
+File Name: operator__ValueType.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/operator__ValueType.cpp
+FILE OPENED
+
+File Name: push_back__object_t__value.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/push_back__object_t__value.cpp
+FILE OPENED
+
+File Name: empty.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/empty.cpp
+FILE OPENED
+
+File Name: basic_json__basic_json.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/basic_json__basic_json.cpp
+FILE OPENED
+
+File Name: basic_json__boolean_t.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/basic_json__boolean_t.cpp
+FILE OPENED
+
+File Name: type.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/type.cpp
+FILE OPENED
+
+File Name: at__object_t_key_type_const.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/at__object_t_key_type_const.cpp
+FILE OPENED
+
+File Name: insert__range.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/insert__range.cpp
+FILE OPENED
+
+File Name: at_json_pointer_const.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/at_json_pointer_const.cpp
+FILE OPENED
+
+File Name: at__size_type_const.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/at__size_type_const.cpp
+FILE OPENED
+
+File Name: object.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/object.cpp
+FILE OPENED
+
+File Name: back.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/back.cpp
+FILE OPENED
+
+File Name: basic_json__CompatibleNumberFloatType.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/basic_json__CompatibleNumberFloatType.cpp
+FILE OPENED
+
+File Name: parse__istream__parser_callback_t.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/parse__istream__parser_callback_t.cpp
+FILE OPENED
+
+File Name: front.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/front.cpp
+FILE OPENED
+
+File Name: is_boolean.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/is_boolean.cpp
+FILE OPENED
+
+File Name: diff.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/diff.cpp
+FILE OPENED
+
+File Name: basic_json__istream.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/basic_json__istream.cpp
+FILE OPENED
+
+File Name: insert__ilist.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/insert__ilist.cpp
+FILE OPENED
+
+File Name: end.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/end.cpp
+FILE OPENED
+
+File Name: unflatten.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/unflatten.cpp
+FILE OPENED
+
+File Name: basic_json__string_t.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/basic_json__string_t.cpp
+FILE OPENED
+
+File Name: operator__greaterequal.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/operator__greaterequal.cpp
+FILE OPENED
+
+File Name: is_number_integer.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/is_number_integer.cpp
+FILE OPENED
+
+File Name: basic_json__CompatibleIntegerNumberType.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/basic_json__CompatibleIntegerNumberType.cpp
+FILE OPENED
+
+File Name: get_ref.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/get_ref.cpp
+FILE OPENED
+
+File Name: push_back.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/push_back.cpp
+FILE OPENED
+
+File Name: basic_json__value_t.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/basic_json__value_t.cpp
+FILE OPENED
+
+File Name: operatorarray__size_type.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/operatorarray__size_type.cpp
+FILE OPENED
+
+File Name: parse__iteratortype__parser_callback_t.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/parse__iteratortype__parser_callback_t.cpp
+FILE OPENED
+
+File Name: clear.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/clear.cpp
+FILE OPENED
+
+File Name: operatorjson_pointer.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/operatorjson_pointer.cpp
+FILE OPENED
+
+File Name: basic_json__value.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/basic_json__value.cpp
+FILE OPENED
+
+File Name: swap__object_t.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/swap__object_t.cpp
+FILE OPENED
+
+File Name: push_back__initializer_list.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/push_back__initializer_list.cpp
+FILE OPENED
+
+File Name: dump.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/dump.cpp
+FILE OPENED
+
+File Name: basic_json__InputIt_InputIt.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/basic_json__InputIt_InputIt.cpp
+FILE OPENED
+
+File Name: crbegin.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/crbegin.cpp
+FILE OPENED
+
+File Name: insert__count.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/insert__count.cpp
+FILE OPENED
+
+File Name: operator__equal.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/operator__equal.cpp
+FILE OPENED
+
+File Name: parse__string__parser_callback_t.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/parse__string__parser_callback_t.cpp
+FILE OPENED
+
+File Name: basic_json__nullptr_t.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/basic_json__nullptr_t.cpp
+FILE OPENED
+
+File Name: basic_json__copyassignment.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/basic_json__copyassignment.cpp
+FILE OPENED
+
+File Name: operator__greater.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/operator__greater.cpp
+FILE OPENED
+
+File Name: is_number.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/is_number.cpp
+FILE OPENED
+
+File Name: rend.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/rend.cpp
+FILE OPENED
+
+File Name: operator__lessequal.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/operator__lessequal.cpp
+FILE OPENED
+
+File Name: is_object.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/is_object.cpp
+FILE OPENED
+
+File Name: operator_serialize.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/operator_serialize.cpp
+FILE OPENED
+
+File Name: parse__contiguouscontainer__parser_callback_t.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/parse__contiguouscontainer__parser_callback_t.cpp
+FILE OPENED
+
+File Name: get_ptr.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/get_ptr.cpp
+FILE OPENED
+
+File Name: erase__IteratorType_IteratorType.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/erase__IteratorType_IteratorType.cpp
+FILE OPENED
+
+File Name: is_string.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/is_string.cpp
+FILE OPENED
+
+File Name: swap__reference.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/swap__reference.cpp
+FILE OPENED
+
+File Name: cend.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/cend.cpp
+FILE OPENED
+
+File Name: swap__string_t.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/swap__string_t.cpp
+FILE OPENED
+
+File Name: begin.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/begin.cpp
+FILE OPENED
+
+File Name: at__size_type.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/at__size_type.cpp
+FILE OPENED
+
+File Name: rbegin.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/rbegin.cpp
+FILE OPENED
+
+File Name: operator_deserialize.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/operator_deserialize.cpp
+FILE OPENED
+
+File Name: erase__size_type.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/erase__size_type.cpp
+FILE OPENED
+
+File Name: basic_json__value_ptr.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/basic_json__value_ptr.cpp
+FILE OPENED
+
+File Name: is_array.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/is_array.cpp
+FILE OPENED
+
+File Name: basic_json__moveconstructor.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/basic_json__moveconstructor.cpp
+FILE OPENED
+
+File Name: json_pointer__to_string.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/json_pointer__to_string.cpp
+FILE OPENED
+
+File Name: basic_json__number_float_t.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/basic_json__number_float_t.cpp
+FILE OPENED
+
+File Name: count.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/count.cpp
+FILE OPENED
+
+File Name: is_null.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/is_null.cpp
+FILE OPENED
+
+File Name: basic_json__string_t_value_type.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/basic_json__string_t_value_type.cpp
+FILE OPENED
+
+File Name: erase__key_type.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/erase__key_type.cpp
+FILE OPENED
+
+File Name: README.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/README.cpp
+FILE OPENED
+
+File Name: crend.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/crend.cpp
+FILE OPENED
+
+File Name: basic_json__object_t.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/basic_json__object_t.cpp
+FILE OPENED
+
+File Name: patch.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/patch.cpp
+FILE OPENED
+
+File Name: cbegin.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/cbegin.cpp
+FILE OPENED
+
+File Name: is_discarded.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/is_discarded.cpp
+FILE OPENED
+
+File Name: operatorarray__key_type.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/operatorarray__key_type.cpp
+FILE OPENED
+
+File Name: is_number_float.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/is_number_float.cpp
+FILE OPENED
+
+File Name: basic_json__CompatibleArrayType.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/basic_json__CompatibleArrayType.cpp
+FILE OPENED
+
+File Name: basic_json__list_init_t.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/basic_json__list_init_t.cpp
+FILE OPENED
+
+File Name: is_number_unsigned.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/is_number_unsigned.cpp
+FILE OPENED
+
+File Name: get__ValueType_const.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/get__ValueType_const.cpp
+FILE OPENED
+
+File Name: operatorarray__key_type_const.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/operatorarray__key_type_const.cpp
+FILE OPENED
+
+File Name: size.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/size.cpp
+FILE OPENED
+
+File Name: is_primitive.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/is_primitive.cpp
+FILE OPENED
+
+File Name: is_structured.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/is_structured.cpp
+FILE OPENED
+
+File Name: parse__array__parser_callback_t.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/parse__array__parser_callback_t.cpp
+FILE OPENED
+
+File Name: basic_json__size_type_basic_json.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/basic_json__size_type_basic_json.cpp
+FILE OPENED
+
+File Name: operator__notequal.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/operator__notequal.cpp
+FILE OPENED
+
+File Name: basic_json__const_int.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/basic_json__const_int.cpp
+FILE OPENED
+
+File Name: at__object_t_key_type.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/at__object_t_key_type.cpp
+FILE OPENED
+
+File Name: max_size.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/max_size.cpp
+FILE OPENED
+
+File Name: flatten.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/flatten.cpp
+FILE OPENED
+
+File Name: operatorjson_pointer_const.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/operatorjson_pointer_const.cpp
+FILE OPENED
+
+File Name: array.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/array.cpp
+FILE OPENED
+
+File Name: insert.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/insert.cpp
+FILE OPENED
+
+File Name: at_json_pointer.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/at_json_pointer.cpp
+FILE OPENED
+
+File Name: basic_json__array_t.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/basic_json__array_t.cpp
+FILE OPENED
+
+File Name: operator__equal__nullptr_t.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/operator__equal__nullptr_t.cpp
+FILE OPENED
+
+File Name: operatorarray__size_type_const.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/operatorarray__size_type_const.cpp
+FILE OPENED
+
+File Name: swap__array_t.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/swap__array_t.cpp
+FILE OPENED
+
+File Name: erase__IteratorType.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/erase__IteratorType.cpp
+FILE OPENED
+
+File Name: operator__less.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/operator__less.cpp
+FILE OPENED
+
+File Name: operator__value_t.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/operator__value_t.cpp
+FILE OPENED
+
+File Name: json_pointer.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/json_pointer.cpp
+FILE OPENED
+
+File Name: basic_json__number_integer_t.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/basic_json__number_integer_t.cpp
+FILE OPENED
+
+File Name: basic_json__CompatibleObjectType.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/basic_json__CompatibleObjectType.cpp
+FILE OPENED
+
+File Name: get__PointerType.cpp
+File Path: /home/smucoder/github50+cpp/doc/examples/get__PointerType.cpp
+FILE OPENED
+
+Directory Name: images
+Directory Path: /home/smucoder/github50+cpp/doc/images
+DIR OPENED
+
+Directory Name: benchmarks
+Directory Path: /home/smucoder/github50+cpp/benchmarks
+DIR OPENED
+
+File Name: benchmarks.cpp
+File Path: /home/smucoder/github50+cpp/benchmarks/benchmarks.cpp
+FILE OPENED
+
+File Name: benchpress.hpp
+File Path: /home/smucoder/github50+cpp/benchmarks/benchpress.hpp
+FILE OPENED
+
+Directory Name: files
+Directory Path: /home/smucoder/github50+cpp/benchmarks/files
+DIR OPENED
+
+Directory Name: jeopardy
+Directory Path: /home/smucoder/github50+cpp/benchmarks/files/jeopardy
+DIR OPENED
+
+Directory Name: numbers
+Directory Path: /home/smucoder/github50+cpp/benchmarks/files/numbers
+DIR OPENED
+
+Directory Name: nativejson-benchmark
+Directory Path: /home/smucoder/github50+cpp/benchmarks/files/nativejson-benchmark
+DIR OPENED
+
+File Name: cxxopts.hpp
+File Path: /home/smucoder/github50+cpp/benchmarks/cxxopts.hpp
+FILE OPENED
+
+Directory Name: src
+Directory Path: /home/smucoder/github50+cpp/src
+DIR OPENED
+
+File Name: json.hpp
+File Path: /home/smucoder/github50+cpp/src/json.hpp
+FILE OPENED
+
+Directory Name: .github
+Directory Path: /home/smucoder/github50+cpp/.github
+DIR OPENED
+
+Directory Name: cmake
+Directory Path: /home/smucoder/github50+cpp/cmake
+DIR OPENED
+
+Directory Name: test
+Directory Path: /home/smucoder/github50+cpp/test
+DIR OPENED
+
+Directory Name: reports
+Directory Path: /home/smucoder/github50+cpp/test/reports
+DIR OPENED
+
+Directory Name: 2016-10-02-fuzz
+Directory Path: /home/smucoder/github50+cpp/test/reports/2016-10-02-fuzz
+DIR OPENED
+
+Directory Name: 2016-09-09-nativejson_benchmark
+Directory Path: /home/smucoder/github50+cpp/test/reports/2016-09-09-nativejson_benchmark
+DIR OPENED
+
+Directory Name: 2016-08-29-fuzz
+Directory Path: /home/smucoder/github50+cpp/test/reports/2016-08-29-fuzz
+DIR OPENED
+
+Directory Name: src
+Directory Path: /home/smucoder/github50+cpp/test/src
+DIR OPENED
+
+File Name: unit-unicode.cpp
+File Path: /home/smucoder/github50+cpp/test/src/unit-unicode.cpp
+FILE OPENED
+
+File Name: unit-conversions.cpp
+File Path: /home/smucoder/github50+cpp/test/src/unit-conversions.cpp
+FILE OPENED
+
+File Name: unit-json_patch.cpp
+File Path: /home/smucoder/github50+cpp/test/src/unit-json_patch.cpp
+FILE OPENED
+
+File Name: unit-inspection.cpp
+File Path: /home/smucoder/github50+cpp/test/src/unit-inspection.cpp
+FILE OPENED
+
+File Name: fuzz.cpp
+File Path: /home/smucoder/github50+cpp/test/src/fuzz.cpp
+FILE OPENED
+
+File Name: unit-testsuites.cpp
+File Path: /home/smucoder/github50+cpp/test/src/unit-testsuites.cpp
+FILE OPENED
+
+File Name: unit-class_const_iterator.cpp
+File Path: /home/smucoder/github50+cpp/test/src/unit-class_const_iterator.cpp
+FILE OPENED
+
+File Name: unit-reference_access.cpp
+File Path: /home/smucoder/github50+cpp/test/src/unit-reference_access.cpp
+FILE OPENED
+
+File Name: unit-iterators2.cpp
+File Path: /home/smucoder/github50+cpp/test/src/unit-iterators2.cpp
+FILE OPENED
+
+File Name: unit.cpp
+File Path: /home/smucoder/github50+cpp/test/src/unit.cpp
+FILE OPENED
+
+File Name: unit-iterator_wrapper.cpp
+File Path: /home/smucoder/github50+cpp/test/src/unit-iterator_wrapper.cpp
+FILE OPENED
+
+File Name: unit-regression.cpp
+File Path: /home/smucoder/github50+cpp/test/src/unit-regression.cpp
+FILE OPENED
+
+File Name: unit-class_parser.cpp
+File Path: /home/smucoder/github50+cpp/test/src/unit-class_parser.cpp
+FILE OPENED
+
+File Name: unit-class_iterator.cpp
+File Path: /home/smucoder/github50+cpp/test/src/unit-class_iterator.cpp
+FILE OPENED
+
+File Name: unit-readme.cpp
+File Path: /home/smucoder/github50+cpp/test/src/unit-readme.cpp
+FILE OPENED
+
+File Name: unit-json_pointer.cpp
+File Path: /home/smucoder/github50+cpp/test/src/unit-json_pointer.cpp
+FILE OPENED
+
+File Name: unit-constructor1.cpp
+File Path: /home/smucoder/github50+cpp/test/src/unit-constructor1.cpp
+FILE OPENED
+
+File Name: unit-algorithms.cpp
+File Path: /home/smucoder/github50+cpp/test/src/unit-algorithms.cpp
+FILE OPENED
+
+File Name: unit-deserialization.cpp
+File Path: /home/smucoder/github50+cpp/test/src/unit-deserialization.cpp
+FILE OPENED
+
+File Name: unit-modifiers.cpp
+File Path: /home/smucoder/github50+cpp/test/src/unit-modifiers.cpp
+FILE OPENED
+
+File Name: unit-allocator.cpp
+File Path: /home/smucoder/github50+cpp/test/src/unit-allocator.cpp
+FILE OPENED
+
+File Name: unit-concepts.cpp
+File Path: /home/smucoder/github50+cpp/test/src/unit-concepts.cpp
+FILE OPENED
+
+File Name: unit-constructor2.cpp
+File Path: /home/smucoder/github50+cpp/test/src/unit-constructor2.cpp
+FILE OPENED
+
+File Name: unit-pointer_access.cpp
+File Path: /home/smucoder/github50+cpp/test/src/unit-pointer_access.cpp
+FILE OPENED
+
+File Name: unit-iterators1.cpp
+File Path: /home/smucoder/github50+cpp/test/src/unit-iterators1.cpp
+FILE OPENED
+
+File Name: catch.hpp
+File Path: /home/smucoder/github50+cpp/test/src/catch.hpp
+FILE OPENED
+
+File Name: unit-element_access1.cpp
+File Path: /home/smucoder/github50+cpp/test/src/unit-element_access1.cpp
+FILE OPENED
+
+File Name: unit-comparison.cpp
+File Path: /home/smucoder/github50+cpp/test/src/unit-comparison.cpp
+FILE OPENED
+
+File Name: unit-convenience.cpp
+File Path: /home/smucoder/github50+cpp/test/src/unit-convenience.cpp
+FILE OPENED
+
+File Name: unit-serialization.cpp
+File Path: /home/smucoder/github50+cpp/test/src/unit-serialization.cpp
+FILE OPENED
+
+File Name: unit-class_lexer.cpp
+File Path: /home/smucoder/github50+cpp/test/src/unit-class_lexer.cpp
+FILE OPENED
+
+File Name: unit-capacity.cpp
+File Path: /home/smucoder/github50+cpp/test/src/unit-capacity.cpp
+FILE OPENED
+
+File Name: unit-element_access2.cpp
+File Path: /home/smucoder/github50+cpp/test/src/unit-element_access2.cpp
+FILE OPENED
+
+Directory Name: data
+Directory Path: /home/smucoder/github50+cpp/test/data
+DIR OPENED
+
+Directory Name: regression
+Directory Path: /home/smucoder/github50+cpp/test/data/regression
+DIR OPENED
+
+Directory Name: nst_json_testsuite
+Directory Path: /home/smucoder/github50+cpp/test/data/nst_json_testsuite
+DIR OPENED
+
+Directory Name: test_parsing
+Directory Path: /home/smucoder/github50+cpp/test/data/nst_json_testsuite/test_parsing
+DIR OPENED
+
+Directory Name: json_tests
+Directory Path: /home/smucoder/github50+cpp/test/data/json_tests
+DIR OPENED
+
+Directory Name: json_nlohmann_tests
+Directory Path: /home/smucoder/github50+cpp/test/data/json_nlohmann_tests
+DIR OPENED
+
+Directory Name: json_testsuite
+Directory Path: /home/smucoder/github50+cpp/test/data/json_testsuite
+DIR OPENED
+
+Directory Name: json.org
+Directory Path: /home/smucoder/github50+cpp/test/data/json.org
+DIR OPENED
+
+Directory Name: json_roundtrip
+Directory Path: /home/smucoder/github50+cpp/test/data/json_roundtrip
+DIR OPENED
+
+Done!
+Press <RETURN> to close this window...
+
